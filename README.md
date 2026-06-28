@@ -1,0 +1,1 @@
+This is just a simple LoRA_finetuning using Text-to-SQL dataset. You can read more in Report.pdf. Overall, I conducted a comparetive study of different rank parameters and also built a small system which takes .sqlite or .db file as input and outputs the SQL query.
